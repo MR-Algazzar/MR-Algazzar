@@ -34,7 +34,15 @@ Computer Science undergraduate focused on turning messy operational and business
 
 ### 🚀 Featured Projects:
 
-#### 🏥 [Excel_Clinic_Appointments_Dashboard](https://github.com/MR-Algazzar/Excel_Clinic_Appointments_Dashboard) :
+#### 💻 [Excel Tech Retail Sales Dashboard](https://github.com/MR-Algazzar/Excel_Tech_Retail_Sales_Dashboard) :
+
+- Analyzed 2,000 technology retail orders to evaluate revenue generation and sales performance.
+- Identified top-performing product categories, products, regions, and sales channels.
+- Built an interactive Excel dashboard to visualize KPIs, monthly revenue trends, and sales distribution using Pivot Tables, Pivot Charts, slicers, and timelines.
+
+---
+
+#### 🏥 [Excel Clinic Appointments Dashboard](https://github.com/MR-Algazzar/Excel_Clinic_Appointments_Dashboard) :
 
 - Cleaned and modeled 5,000+ appointment records using Power Query and DAX.
 - Tracked core operational KPIs including revenue, wait times, cancellations, and patient satisfaction.
@@ -47,14 +55,6 @@ Computer Science undergraduate focused on turning messy operational and business
 - Modeled sales data to track revenue, profit margins, and regional results.
 - Identified top-performing product categories and seasonal sales patterns.
 - Designed an interactive layout with dynamic filters for quick decision support.
-
----
-
-#### 💼 [Data Skills And Jobs Analysis Part I Dashboard](https://github.com/MR-Algazzar/Data_Skills_And_Jobs_Analysis_V1) :
-
-- Analyzed job market data to map salary distributions across data roles.
-- Identified the most frequently requested technical skills and tools.
-- Summarized findings into clear visuals to guide career and skill planning.
 
 ---
 
